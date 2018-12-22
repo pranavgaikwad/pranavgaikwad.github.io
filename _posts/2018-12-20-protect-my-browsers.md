@@ -22,11 +22,11 @@ Moreover, extensions help websites to identify users uniquely. I am no expert, b
 Protect My Browsers is available as an Ubuntu package. Run following commands in terminal to install. 
 
 ```bash
-sudo add-apt-repository ppa:gaikwad.pranav/ppa
+sudo add-apt-repository ppa:gaikwad.pranav/gaikwadpranav
 
 sudo apt-get update 
 
-sudo apt-get install protect-my-browsers
+sudo apt-get install protectmybrowsers
 ```
 
 For other Debian based linux distros, it is available as a standard .deb package. Download it at this link 
