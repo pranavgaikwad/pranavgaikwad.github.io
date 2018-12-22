@@ -3,6 +3,7 @@ layout: post
 title: "Protect My Browsers"
 subtitle: A native linux program to block advertisements, trackers and pixels across all your browsers!
 author: Pranav Gaikwad
+permalink: /protect-my-browsers
 tags: [Internet Privacy, Ad Blocker]
 ---
 
