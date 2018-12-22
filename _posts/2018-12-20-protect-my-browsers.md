@@ -13,7 +13,7 @@ When you use an online service for free, it's very likely that you're being the 
 
 When you install a third party browser extension, you essentially put trust in an unknown third party.
 
-> Imagine asking a random stranger to deliver your secret letters to somebody and asking them not to tell anybody.
+> Imagine asking a random stranger to deliver your secret letters to somebody and asking them not to tell anyone.
 
 Moreover, extensions help websites to identify users uniquely. I am no expert, but you can read more about [Browser Fingerprinting](https://www.eff.org/deeplinks/2018/06/gdpr-and-browser-fingerprinting-how-it-changes-game-sneakiest-web-trackers).
 
