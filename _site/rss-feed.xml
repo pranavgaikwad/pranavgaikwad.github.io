@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Geeking out with Pranav</title>
+		<description></description>
+		<link></link>
+		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Protect My Browsers</title>
+				
+					<dc:creator>Pranav Gaikwad</dc:creator>
+				
+				
+					<description>&lt;p&gt;When you use an online service for free, it’s very likely that you’re being the product. You trade your private information to get relevant advertisements in return. I believe that your private information is more valuable than you think. It’s not worth to give it away so easily merely to see some relevant content on your screen. If you think the same way as I do, take a step towards protecting your privacy. Install &lt;strong&gt;Protect My Browsers&lt;/strong&gt;! It’s a program for Linux which blocks third party advertisement providers, trackers and pixels without having to install extensions in your browsers.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Thu, 20 Dec 2018 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/protect-my-browsers.html</link>
+				<guid isPermaLink="true">http://localhost:4000/protect-my-browsers.html</guid>
+			</item>
+		
+	</channel>
+</rss>

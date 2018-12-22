@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Protect My Browsers
+title: "Protect My Browsers"
 subtitle: A native linux program to block advertisements, trackers and pixels across all your browsers!
-gh-repo: 
-gh-badge: []
-tags: [Internet Privacy, Ad Blockers]
+author: Pranav Gaikwad
+tags: [Internet Privacy, Ad Blocker]
 ---
 
 When you use an online service for free, it's very likely that you're being the product. You trade your private information to get relevant advertisements in return. I believe that your private information is more valuable than you think. It's not worth to give it away so easily merely to see some relevant content on your screen. If you think the same way as I do, take a step towards protecting your privacy. Install **Protect My Browsers**! It's a program for Linux which blocks third party advertisement providers, trackers and pixels without having to install extensions in your browsers.
