@@ -7,7 +7,7 @@ permalink: /protect-my-browsers
 tags: [Internet Privacy, Ad Blocker]
 ---
 
-When you use an online service for free, it's very likely that you're not the customer, you're the product. Most of such services use your information to show you relevant advertisements. There are endless ways in which websites can collect your information. Most of them are beyond comprehension of a general internet user. Believe it or not, your private information is more valuable than you think. It's not worth to give it away so easily merely to get relevant advertisements in return. If you think the same way as I do, take a step towards protecting your privacy. Install **Protect My Browsers**! It's a program for Linux which blocks those annoying ads. Under the hood, it also blocks third party trackers and pixels to prevent user profiling. User profiling is a technique that allows websites to control the content on your screen based on who you are.
+When you use an online service for free, it's very likely that you're not the customer, you're the product. Most of such services use your information to show you relevant advertisements. There are endless ways in which websites can collect your information. Most of them are beyond comprehension of a general internet user. Believe it or not, your private information is more valuable than you think. It's not worth to give it away so easily only to get relevant advertisements in return. If you think the same way as I do, take a step towards protecting your privacy. Install **Protect My Browsers**! It's a program for Linux which blocks annoying ads in all of your apps. Under the hood, it also blocks third party trackers and pixels to prevent user profiling. User profiling is a technique that allows websites to control the content on your screen based on who you are.
 
 ### Why shouldn't I install a browser extension ?
 
@@ -17,7 +17,7 @@ When you install a browser extension, you essentially put trust in an unknown th
 
 Moreover, extensions help websites to identify users uniquely. I am no expert, but you can read more about [Browser Fingerprinting](https://www.eff.org/deeplinks/2018/06/gdpr-and-browser-fingerprinting-how-it-changes-game-sneakiest-web-trackers).
 
-Apart from these 'not so obvious' reasons, why you should care about installing Protect My Browsers is because it blocks ads across all your apps unlike browser extensions which only work in a browser.   
+Apart from these 'not so obvious' reasons, why you should care about installing Protect My Browsers is because it blocks ads in every app which connect to the internet unlike browser extensions which only work in a browser.
 
 ### Installation
 
