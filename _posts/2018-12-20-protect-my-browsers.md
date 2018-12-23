@@ -17,7 +17,7 @@ When you install a browser extension, you essentially put trust in an unknown th
 
 Moreover, extensions help websites to identify users uniquely. I am no expert, but you can read more about [Browser Fingerprinting](https://www.eff.org/deeplinks/2018/06/gdpr-and-browser-fingerprinting-how-it-changes-game-sneakiest-web-trackers).
 
-Apart from these 'not so obvious' reasons, why you should care about installing Protect My Browsers is because it blocks ads in every app which connect to the internet unlike browser extensions which only work in a browser.
+Apart from these 'not so obvious' reasons, one reason you should care about Protect My Browsers is that it blocks ads in every app which connects to the internet unlike browser extensions which only work in a browser.
 
 ### Installation
 
