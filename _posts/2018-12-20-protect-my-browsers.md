@@ -33,7 +33,7 @@ sudo apt-get install protectmybrowsers
 
 For other Debian based linux distros, it is available as a standard .deb package. Download it at this link. 
 
-For all other Linux users, I'll be happy to provide you with a source package along with installation instructions. Drop an email to **contact [dot] apps [dot] pg [at] gmail [dot] com** to get a source package.
+For all other Linux users, I'll be happy to provide you with a source package along with installation instructions. Drop an email with subject 'Request PMB' to **contact [dot] apps [dot] pg [at] gmail [dot] com** to get a source package. The subject line is important in order to ensure a timely reply since my bot reads these messages and he is very dumb.
 
 ### Usage
 
