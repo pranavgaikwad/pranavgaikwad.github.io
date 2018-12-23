@@ -49,5 +49,5 @@ To stop blocking, run following command.
 sudo protect-my-browsers --stop
 ```
 
-### See the difference
+<!-- ### See the difference -->
 
