@@ -31,7 +31,7 @@ sudo apt-get update
 sudo apt-get install protectmybrowsers
 ```
 
-For other Debian based linux distros, it is available as a standard .deb package. Download it at this link 
+For other Debian based linux distros, it is available as a standard .deb package. Download it at this link. 
 
 For all other Linux users, I'll be happy to provide you with a source package along with installation instructions. Drop an email to **contact [dot] apps [dot] pg [at] gmail [dot] com** to get a source package.
 
@@ -49,5 +49,9 @@ To stop blocking, run following command.
 sudo protect-my-browsers --stop
 ```
 
-<!-- ### See the difference -->
+### Submit Bugs and Issues
+
+Report bugs and issues to this email - **contact [dot] apps [dot] pg [at] gmail [dot] com**
+
+
 
