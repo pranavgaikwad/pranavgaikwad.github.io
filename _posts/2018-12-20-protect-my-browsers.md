@@ -13,7 +13,7 @@ When you use an online service for free, it's very likely that you're not the cu
 
 When you install a browser extension, you essentially put trust in an unknown third party.
 
-> Imagine asking a random stranger to deliver your private letters to your friend and requesting them not to read. Would you do it?
+> Imagine asking a random stranger to deliver your private letters to your friend and requesting him not to read them. Would you do it?
 
 Moreover, extensions help websites to identify users uniquely. I am no expert, but you can read more about [Browser Fingerprinting](https://www.eff.org/deeplinks/2018/06/gdpr-and-browser-fingerprinting-how-it-changes-game-sneakiest-web-trackers).
 
